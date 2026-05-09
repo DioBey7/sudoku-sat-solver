@@ -40,7 +40,7 @@ The system is robust against image quality variations, handles edge cases gracef
 
 | Team Member | Responsibility | Key Deliverables |
 |---|---|---|
-| **DioBey7** (You) | **API Integration & Input Processing** | `input_handling.py`, `main.py` - Gemini API integration, image validation, grid extraction, error handling |
+| **DioBey7** | **API Integration & Input Processing** | `input_handling.py`, `main.py` - Gemini API integration, image validation, grid extraction, error handling |
 | **Feyza** | **GUI Development** | `gui.py` - Tkinter interface, user interaction, solution visualization, threading |
 | **İrem** | **SAT Encoding & Solving** | `sat_encoding.py`, `sat_solving.py` - Constraint encoding, SAT clause generation, solver orchestration |
 
@@ -991,6 +991,5 @@ Perfect for learning or teaching SAT solvers, constraint programming, or full-st
 
 ---
 
-**Last Updated**: May 9, 2026  
-**Project Status**: Active Development  
+**Last Updated**: May 9, 2026
 **Version**: 1.0.0
