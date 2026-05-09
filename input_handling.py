@@ -10,7 +10,7 @@ import os
 import time
 import re
 
-API_KEY = "AIzaSyAHWRVD-JmqPTyeG9_C8aQAkvEmMiiF-Pg"
+API_KEY = "WRITE YOUR API KEY HERE" # Remember to replace this with your actual API key for the Generative AI API
 genai.configure(api_key=API_KEY)
 
 # Validating the structure of the Sudoku grid (9x9)
